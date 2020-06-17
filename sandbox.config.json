@@ -1,0 +1,6 @@
+{
+  "view": "browser",
+  "template": "angular-cli",
+  "infiniteLoopProtection": false,
+  "hardReloadOnChange": false
+}
