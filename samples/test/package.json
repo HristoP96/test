@@ -1,4 +1,7 @@
 {
+  "name": "test",
+  "description": "This project provides nothing",
+  "author": "Icacho",
   "devDependencies": {
     "typescript": "3.7.5",
     "tslint": "5.12.1",
